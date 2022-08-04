@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Cu Bin 👋
 
 <a href="https://app.daily.dev/CuBin"><img src="https://api.daily.dev/devcards/1e0423bfde5d4d40aa280bee94c6f61a.png?r=s8z" width="400" alt="Nguyen Thanh Dat's Dev Card"/></a>
 <!--
